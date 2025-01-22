@@ -1,0 +1,23 @@
+{
+  "name": "@entaseteam/sdk.node",
+  "version": "1.0",
+  "description": "Node.js Development Kit for Entase",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entase",
+    "sdk",
+    "api"
+  ],
+  "author": "Entase, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
