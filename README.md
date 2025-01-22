@@ -19,12 +19,6 @@ npm install @entaseteam/sdk.node
 ```javascript
 import { Client, Env } from '@entaseteam/sdk.node';
 
-// Optional: Enable debug mode
-Env.setDebugMode(true);
-
-// Optional: Change API URL (for development)
-// Env.APIURL = 'https://api.ensdev.net/v2/';
-
 // Initialize the client
 const client = new Client('your-api-key');
 
