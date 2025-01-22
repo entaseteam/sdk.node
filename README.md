@@ -1,7 +1,7 @@
 # Entase Node.js SDK
 [![Node Version](https://img.shields.io/badge/node-%3E%3D14.0.0-blue.svg)](https://nodejs.org)
 ![Production Ready](https://img.shields.io/badge/production-ready-green)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Node.js Development Kit for Entase API.
 
